@@ -23,7 +23,8 @@ Retailer | Description
 -|-
 [Adafruit](https://adafruit.com) | Female owned, open source, and awesome.
 [Sparkfun](https://sparkfun.com) | Another reputable US electronics source.
-[Great Scott Gadgets](https://greatscottgadgets.com/) | Awesome hardware for hackers and more
+[Pi Shop US](https://www.pishop.us) | Raspberry Pi's and more
+[Cana Kit](https://www.canakit.com/) | Raspberrry Pi's and accessories (reputable amazon selle also)
 
 
 ## Useful Technology Resources :anchor:
