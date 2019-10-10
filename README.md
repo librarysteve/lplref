@@ -15,6 +15,10 @@ Project guides for classes and workshops
 
 [Connecting To a Raspberry Pi](https://github.com/librarysteve/raspberrypi_remote)
 
+[Geeks For Geeks](https://www.geeksforgeeks.org/) | Learn a programming language interactively for free!
+
+[Raspberry Pi Pinout](https://pinout.xwz) | A website detailing the GPIO pins on a raspberry pi
+
 
 ## Where To Buy :money_with_wings:
 Shops and resource locations I trust
@@ -32,10 +36,8 @@ Links to sites, projects, and other useful things
 
 Resource | Description
 -|-
-[Geeks For Geeks](https://www.geeksforgeeks.org/) | Learn a programming language interactively for free!
 [No Starch Press](https://nostarch.com/) | NoStarch, the finest in geek entertainment
 [AlternativeTo.net](https://alternativeto.net/) | Find an alternative to almost any website or software
-[Raspberry Pi Pinout](https://pinout.xwz) | A website detailing the GPIO pins on a raspberry pi
 [Virus Total](https://www.virustotal.com) | Check if a file, or link is malicious! (FYI it does make the attachment public!)
 [EFF](https://eff.org) | The leading nonprofit defending digital privacy, free speech, and innovation.
 [Krebs On Security](https://krebsonsecurity.com/) | Investigative technology journalism
