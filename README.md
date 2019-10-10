@@ -36,4 +36,4 @@ Resource | Description
 [Virus Total](https://www.virustotal.com) | Check if a file, or link is malicious! (FYI it does make the attachment public!)
 [EFF](https://eff.org) | The leading nonprofit defending digital privacy, free speech, and innovation.
 [Krebs On Security](https://krebsonsecurity.com/) | Investigative technology journalism
-[Google Hacking/Advanced Query Cheatsheet](https://www.sans.org/security-resources/GoogleCheatSheet.pdf)
+[Google Hacking/Advanced Query Cheatsheet](https://www.sans.org/security-resources/GoogleCheatSheet.pdf) | Narrow Google search results to get just what you want!
