@@ -13,6 +13,8 @@ Project guides for classes and workshops
 
 [CrickitHAT Tutorial](https://learn.adafruit.com/adafruit-crickit-hat-for-raspberry-pi-linux-computers)
 
+[Connecting To a Raspberry Pi](https://github.com/librarysteve/raspberrypi_remote)
+
 
 ## Where To Buy :money_with_wings:
 Shops and resource locations I trust
