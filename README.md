@@ -8,6 +8,7 @@ Project guides for classes and workshops
 
 ## Where To Buy :money_with_wings:
 Shops and reshource locations I trust
+
 Retailer | Description
 -|-
 [Adafruit](https://adafruit.com) | Female owned, open source, and awesome.
