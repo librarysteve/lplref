@@ -53,3 +53,11 @@ Resource | Description
 [CyberChef](https://gchq.github.io/CyberChef/) | A graphical data manipulation tool that runs in your web browser 
 [haveibeenpwned](https://haveibeenpwned.com/) | The ONLY place I would ever check my email/password for a security issue.
 [DistroWatch](https://distrowatch.com/) | A website to explore the world of Linux and BSD(retro style, up to date info)
+
+## Email Providers/Tools
+Link | Description
+-|-
+[Tempinbox](http://tempinbox.com/) | 48hr email account
+[10minuteemail](https://10minutemail.com) | 10 minute email account
+[Tutanota](https://tutanota.com/) | Privacy focused email (free account is limited to 1GB of storage)
+
