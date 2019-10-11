@@ -19,6 +19,12 @@ Project guides for classes and workshops
 
 [Raspberry Pi Pinout](https://pinout.xwz) | A website detailing the GPIO pins on a raspberry pi
 
+[CircuitPython.org](https://circuitpython.org/) | Official website of circuitpython
+
+[Microsoft Makecode](https://www.microsoft.com/en-us/makecode)
+
+[PyPi](https://pypi.org/) | The Python Package Index
+
 
 ## Where To Buy :money_with_wings:
 Shops and resource locations I trust
