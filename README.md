@@ -48,3 +48,4 @@ Resource | Description
 [EFF](https://eff.org) | The leading nonprofit defending digital privacy, free speech, and innovation.
 [Krebs On Security](https://krebsonsecurity.com/) | Investigative technology journalism
 [Google Hacking/Advanced Query Cheatsheet](https://www.sans.org/security-resources/GoogleCheatSheet.pdf) | Narrow Google search results to get just what you want!
+[CyberChef](https://gchq.github.io/CyberChef/) | A graphical data manipulation tool that runs in your web browser
